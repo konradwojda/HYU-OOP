@@ -1,4 +1,4 @@
-# Object Oriented Programming - Handout 1
+# Object Oriented Programming - Handout 2
 
 Konrad Wojda, 9307820244
 
